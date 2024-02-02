@@ -6,12 +6,12 @@ This is a simple command-line Tic-Tac-Toe game implemented in Java.
 
 1. Clone the repository to your local machine using the following command:
     ```
-    git clone <repository_url>
+    git clone https://github.com/Sahaj19/XOX.git
     ```
 
 2. Navigate to the directory containing the cloned repository:
     ```
-    cd <repository_name>
+    cd XOX
     ```
 
 3. Compile the Java program:
